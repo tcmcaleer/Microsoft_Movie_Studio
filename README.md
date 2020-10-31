@@ -26,13 +26,13 @@ Assign values to genres to find studio direction.
 ## The Process
 
 Scatter plot to compare budgets vs domestic grosses of 1977 movies:
-(https://github.com/tcmcaleer/Microsoft_Movie_Studio/blob/main/Images/GrossvsBudget.png)
+!(https://github.com/tcmcaleer/Microsoft_Movie_Studio/blob/main/Images/GrossvsBudget.png)
 Then we compare highest grossing genres by return on investment.
-(https://github.com/tcmcaleer/Microsoft_Movie_Studio/blob/main/Images/Action%20Bar%20Chart.png)
+!(https://github.com/tcmcaleer/Microsoft_Movie_Studio/blob/main/Images/Action%20Bar%20Chart.png)
 Eliminate the extreme outlier:
-(https://github.com/tcmcaleer/Microsoft_Movie_Studio/blob/main/Images/Animation%20Bar%20Chart.png)
+!(https://github.com/tcmcaleer/Microsoft_Movie_Studio/blob/main/Images/Animation%20Bar%20Chart.png)
 Now we return to the scatter plot, highlighting successes of animated features.
-(https://github.com/tcmcaleer/Microsoft_Movie_Studio/blob/main/Images/GrossBudgetAnimation.png)
+!(https://github.com/tcmcaleer/Microsoft_Movie_Studio/blob/main/Images/GrossBudgetAnimation.png)
 ## Results
 
 Comparing regression lines, we see that animated films require lower investment on average, and with a higher return.
